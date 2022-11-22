@@ -44,16 +44,6 @@ $(function(){
     =========================================================================*/
     $(".resume-download").tooltip();
 
-    /*=========================================================================
-            Carousels / Resume, Testimonials, Customers /
-    =========================================================================*/
-      $(".customer-carousel").owlCarousel({
-        items: 4
-      });
-
-      $(".resume-carousel, .testimonial-carousel").owlCarousel({
-        singleItem:true
-      });
 
     /*=========================================================================
             Backstretch Background Slider
