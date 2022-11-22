@@ -439,9 +439,9 @@ li {
 }
 
 .main-content p {
-    color: #2c2c2c;
+    color: #000;
     font-size: 16px;
-    font-weight: 300;
+    font-weight: 400;
     line-height: 28px;
 }
 
